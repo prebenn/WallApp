@@ -1,2 +1,3 @@
 # WallApp
 
+TODO: everything
